@@ -12,7 +12,7 @@
 <center>
 
 <!-- [![✨](https://avatars.githubusercontent.com/u/41271986?s=200&v=4)](#buzzysinbuzzysin-) -->
-<img src="https://avatars.githubusercontent.com/u/41271986?s=200&v=4" alt="✨" width="200" height="200" style="border-radius: 9999px" />
+<img src="https://avatars.githubusercontent.com/u/41271986?s=200&v=4" alt="✨" width="200" height="200" style="border-radius: 100%" />
 
 </center>
 
