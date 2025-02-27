@@ -9,12 +9,11 @@
 #include <cheesy_dev/intro.hpp>
 ```
 
-<center>
+<div align="center">
 
-<!-- [![✨](https://avatars.githubusercontent.com/u/41271986?s=200&v=4)](#buzzysinbuzzysin-) -->
-<img src="https://avatars.githubusercontent.com/u/41271986?s=200&v=4" alt="✨" width="200" height="200" style="border-radius: 100%" />
+[![Hey, you found me ✨](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41271986?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d)](#buzzysinbuzzysin-)
 
-</center>
+</div>
 
 ## Who am I?
 
