@@ -1,0 +1,36 @@
+# Ignore submodules
+**/.gitmodules
+
+# Ignore other common files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+*.rej
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build artifacts
+/target/
+/build/
+/dist/
+/out/
+
+# Ignore dependency directories
+/node_modules/
+/vendor/
+
+# Ignore IDE and editor files
+/.idea/
+/.vscode/
+/*.code-workspace
+
+# Ignore environment variable files
+.env
+.env.local
+.env.*.local

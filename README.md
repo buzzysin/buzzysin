@@ -23,19 +23,19 @@ Hi, I'm [@buzzysin](https://github.com/buzzysin). I'm currently a full-time dev 
 
 I'll enumerate my projects here. Note that not every project is public, and some haven't been started yet. I'm cursed with a lot of ideas and not enough time to implement them all.
 
-> A checked box means that the project is being as actively developed as possible, which is admittedly not much.
+### Active projects
 
-- C++
-  - [x] bzgames: A C++ based game engine I'm working on, based on OpenGL and GLFW.
-- JS
-  - [x] bzweb: A Next.js based web app that I'm planning to use as a portfolio.
-  - [ ] bzbot: A Discord bot that constructs commands using decorators
-- Python
-  - [ ] unnamed: A reimagining of my final year uni thesis project that uses image processing techniques to generate circuit schematics.
-- Rust
-  - [ ] unnamed: A reimagining of an unfinished uni assignment that involves creating a pipelined, multi-scalar out-of-order processor simulation, complete with ISA and assembler.
-- Other languages
-  - Toy projects in Rust, Go, and Java, Haskell, you name it.
+- [x] bzweb: A Next.js based web app that I'm planning to use as a portfolio.
+- [x] [bzgames][bzgames]: A C++ based game engine I'm working on, based on OpenGL and GLFW.
+- [x] [bzapi][bzapi]: A Rust based server application that will hopefully serve as a backend for most of my projects.
+- [x] [bzauth-rs][bzauth-rs]: A Rust based authentication library - a dependency of bzapi. It is based on the popular Auth.js library, but is written in Rust.
+
+### Other projects
+
+- [ ] [bzbot][bzbot]: A Node.js-based Discord bot that constructs commands using decorators and dependency injection.
+- [ ] TODO: Toy projects in Rust, Go, and Java, Haskell, you name it.
+- [ ] TODO: unnamed: A reimagining of an unfinished uni assignment that involves creating a pipelined, multi-scalar out-of-order processor simulation, complete with ISA and assembler.
+- [ ] TODO: unnamed: A reimagining of my final year uni thesis project that uses image processing techniques to generate circuit schematics.
 
 ## Thanks for stopping by
 
@@ -44,3 +44,10 @@ If you want to find me, chances are you already know where to look.
 ```c++
 #endif
 ```
+
+<!-- References -->
+
+[bzgames]: https://github.com/buzzysin/bzgames
+[bzapi]: https://github.com/buzzysin/bzapi
+[bzbot]: https://github.com/buzzysin/buzzybot
+[bzauth-rs]: https://github.com/buzzysin/bzauth-rs
